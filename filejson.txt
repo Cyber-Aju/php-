@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "1",
+        "Name": "SMyl",
+        "Gender": "1",
+        "Class": "32"
+    },
+    {
+        "ID": "2",
+        "Name": "Ajmal",
+        "Gender": "1",
+        "Class": "32"
+    },
+    {
+        "ID": "3",
+        "Name": "Akram",
+        "Gender": "1",
+        "Class": "32"
+    },
+    {
+        "ID": "4",
+        "Name": "Dazzy",
+        "Gender": "1",
+        "Class": "32"
+    }
+]
